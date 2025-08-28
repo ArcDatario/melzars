@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987917587905",
+    "project_id": "online-booking-system-d0ecd",
+    "storage_bucket": "online-booking-system-d0ecd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987917587905:android:e75716574891e062108b40",
+        "android_client_info": {
+          "package_name": "com.melzarmountainresort.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8aQvPj22M49PeLx7WFtYK9PwTX1Tc44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
